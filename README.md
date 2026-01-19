@@ -89,7 +89,7 @@ _Tip: Use `launchd` or `supervisor` to keep this running in the background forev
 
 ## 🔒 Privacy Architecture
 
-We believe your thoughts belong to you.
+I believe your thoughts belong to you.
 
 | Step              | Location      | Data Status                                                                     |
 | :---------------- | :------------ | :------------------------------------------------------------------------------ |
