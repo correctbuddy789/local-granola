@@ -1,0 +1,4 @@
+google-genai
+watchdog
+pydub
+python-dotenv
